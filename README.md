@@ -15,23 +15,24 @@
 
 ### 其他
 
-如果您在海外工作，了解海外某个国家的政策，**[请帮助大家](https://github.com/623637646/996.Leave/blob/master/Contribution.md)**，让国内的人也能了解。
+如果您在海外工作，了解海外某个国家的政策，**[请帮助大家](Contribution.md)**，让国内的人也能了解。
 
-想要了解海外招聘的，请移步“**[招聘资源](https://github.com/623637646/996.Leave/blob/master/Careers.md)**”
+想要了解海外招聘的，请移步“**[招聘资源](Careers.md)**”
 
 如果有任何问题，或者内容错误，请提 **[Issues](https://github.com/623637646/996.Leave/issues)** 。
 
 本篇为**新加坡篇**，其他的国家：
 
-* [美国](https://github.com/623637646/996.Leave/blob/master/country/United%20States.md)
-* [荷兰](https://github.com/623637646/996.Leave/blob/master/country/Netherlands.md)
-* [英国](https://github.com/623637646/996.Leave/blob/master/country/United%20Kingdom.md)
-* [新西兰](https://github.com/623637646/996.Leave/blob/master/country/New%20Zealand.md)
-* [奥地利](https://github.com/623637646/996.Leave/blob/master/country/Austria.md)
+* [美国](country/United-States.md)
+* [荷兰](country/Netherlands.md)
+* [英国](country/United-Kingdom.md)
+* [新西兰](country/New-Zealand.md)
+* [奥地利](country/Austria.md)
 * [德国](country/Germany.md)
-* [澳大利亚](https://github.com/623637646/996.Leave/blob/master/country/Australia.md)
-* [瑞典](https://github.com/623637646/996.Leave/blob/master/country/Sweden.md)
-* [日本](https://github.com/623637646/996.Leave/blob/master/country/Japan.md)
+* [澳大利亚](country/Australia.md)
+* [瑞典](country/Sweden.md)
+* [日本](country/Japan.md)
+* [加拿大](country/Canada.md)
 
 ---
 
@@ -154,7 +155,7 @@
 
 # 关于裁员
 
-最近的[网易暴力裁员](https://mp.weixin.qq.com/s/FW7uR5t6UMMxgkCcAvk-MA)，和[华为251](https://www.zhihu.com/question/358623450/answer/917544427)闹得沸沸扬扬。
+最近的[网易暴力裁员](https://mp.weixin.qq.com/s/FW7uR5t6UMMxgkCcAvk-MA)，和[华为251](https://zh.wikipedia.org/wiki/%E8%8F%AF%E7%82%BA251%E4%BA%8B%E4%BB%B6)闹得沸沸扬扬。
 
 个人感觉，随着人口红利的消失，经济发展的减缓，企业这种大规模的裁员是必然的。今年是十年来最差的一年，也许是未来十年最好的一年。
 
